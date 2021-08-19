@@ -1,2 +1,2 @@
 # Neuron_Nodes
-Paper of subgraphs to calculate an upper limit on number of memories which here correspond tot a unique graph
+While reading about brain,this problem struck me. How many mem- ories are possible in Brain given N number of neurons?. A memory in brain is a result of neurons fired in a particular sequence.If every pattern of Neuron firing corresponded to a new memory, which can have any func- tions from playing music to building sentences. How many memories can the brain can have, is it infinite or a finite number.
